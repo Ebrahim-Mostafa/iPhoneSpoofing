@@ -23,10 +23,9 @@ too often, but if you ever need to change it to protect your privacy, help resol
 * git clone https://github.com/Ebrahim-Mostafa/iPhoneSpoofing.git
 * Import iPhoneSpoofing.xcodeproj inside Xcode.
 * Change the Latitude and Longitude on **EgyptSpoofing.gpx**  file corresponding to lat and lon of your choice:
-
->     <wpt lat="25.252208473472418" lon="55.33279196882006">
-<name>EgyptSpoofing</name>
-
+```
+ <wpt lat="25.252208473472418" lon="55.33279196882006"><name>EgyptSpoofing</name>
+```
 ### Executing program
 
 * Plug your iPhone cable with the device.
