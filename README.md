@@ -36,6 +36,13 @@ too often, but if you ever need to change it to protect your privacy, help resol
 Choose Egypt Spoofing which refer to EgyptSpoofing.gpx file
 ```
 
+### Spoofing IP Using terminal idevicesetlocation: 
+
+```
+Usage: idevicesetlocation [OPTIONS] -- <LAT> <LONG>
+       idevicesetlocation [OPTIONS] reset
+```
+
 ## Help
 
 [Xcode "Device Locked" When iPhone is unlocked](https://stackoverflow.com/questions/26791477/xcode-device-locked-when-iphone-is-unlocked)
