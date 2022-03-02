@@ -53,6 +53,10 @@ Usage: idevicesetlocation [OPTIONS] -- <LAT> <LONG>
 
 [Device Support files (iOS 14) for Xcode11 [closed]](https://stackoverflow.com/questions/62526772/device-support-files-ios-14-for-xcode11)
 
+[Install libimobiledevice on Mac OSX](https://macappstore.org/libimobiledevice/)
+
+[libimobiledevice](https://ports.macports.org/port/libimobiledevice/)
+
 ## Authors
 
 Contributors names and contact info:

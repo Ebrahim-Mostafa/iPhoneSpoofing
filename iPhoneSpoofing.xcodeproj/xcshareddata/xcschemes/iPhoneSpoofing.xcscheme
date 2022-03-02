@@ -20,6 +20,34 @@
                ReferencedContainer = "container:iPhoneSpoofing.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C8E1EE7826CD61A600BCC878"
+               BuildableName = "iPhoneSpoofingTests.xctest"
+               BlueprintName = "iPhoneSpoofingTests"
+               ReferencedContainer = "container:iPhoneSpoofing.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C8E1EE8326CD61A600BCC878"
+               BuildableName = "iPhoneSpoofingUITests.xctest"
+               BlueprintName = "iPhoneSpoofingUITests"
+               ReferencedContainer = "container:iPhoneSpoofing.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
