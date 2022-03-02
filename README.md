@@ -45,17 +45,12 @@ Usage: idevicesetlocation [OPTIONS] -- <LAT> <LONG>
 
 ## Help
 
-[Xcode "Device Locked" When iPhone is unlocked](https://stackoverflow.com/questions/26791477/xcode-device-locked-when-iphone-is-unlocked)
-
-[Xcode cannot launch the app because the device is locked](https://stackoverflow.com/questions/59763552/xcode-cannot-launch-the-app-because-the-device-is-locked)
-
-[Xcode 12.4 “Unsupported OS version” after iPhone iOS update 14.7](https://stackoverflow.com/questions/67863355/xcode-12-4-unsupported-os-version-after-iphone-ios-update-14-7)
-
-[Device Support files (iOS 14) for Xcode11 [closed]](https://stackoverflow.com/questions/62526772/device-support-files-ios-14-for-xcode11)
-
-[Install libimobiledevice on Mac OSX](https://macappstore.org/libimobiledevice/)
-
-[libimobiledevice](https://ports.macports.org/port/libimobiledevice/)
+- [Xcode "Device Locked" When iPhone is unlocked](https://stackoverflow.com/questions/26791477/xcode-device-locked-when-iphone-is-unlocked)
+- [Xcode cannot launch the app because the device is locked](https://stackoverflow.com/questions/59763552/xcode-cannot-launch-the-app-because-the-device-is-locked)
+- [Xcode 12.4 “Unsupported OS version” after iPhone iOS update 14.7](https://stackoverflow.com/questions/67863355/xcode-12-4-unsupported-os-version-after-iphone-ios-update-14-7)
+- [Device Support files (iOS 14) for Xcode11 [closed]](https://stackoverflow.com/questions/62526772/device-support-files-ios-14-for-xcode11)
+- [Install libimobiledevice on Mac OSX](https://macappstore.org/libimobiledevice/)
+- [libimobiledevice](https://ports.macports.org/port/libimobiledevice/)
 
 ## Authors
 
