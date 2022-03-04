@@ -43,11 +43,14 @@ Usage: idevicesetlocation [OPTIONS] -- <LAT> <LONG>
        idevicesetlocation [OPTIONS] reset
 ```
 
-## Help
+## References
 
 - [Xcode "Device Locked" When iPhone is unlocked](https://stackoverflow.com/questions/26791477/xcode-device-locked-when-iphone-is-unlocked)
 - [Xcode cannot launch the app because the device is locked](https://stackoverflow.com/questions/59763552/xcode-cannot-launch-the-app-because-the-device-is-locked)
+- [How to simulate location in Xcode and Simulator](https://sarunw.com/posts/how-to-simulate-location-in-xcode-and-simulator/#xcode-schemes)
 - [Xcode 12.4 “Unsupported OS version” after iPhone iOS update 14.7](https://stackoverflow.com/questions/67863355/xcode-12-4-unsupported-os-version-after-iphone-ios-update-14-7)
+- [How to support Latest iOS devices with Older Xcode versions?](https://medium.com/naukri-engineering/how-to-support-latest-ios-devices-with-older-xcode-versions-22c087b024e6)
+- [iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport)
 - [Device Support files (iOS 14) for Xcode11 [closed]](https://stackoverflow.com/questions/62526772/device-support-files-ios-14-for-xcode11)
 - [Install libimobiledevice on Mac OSX](https://macappstore.org/libimobiledevice/)
 - [libimobiledevice](https://ports.macports.org/port/libimobiledevice/)
